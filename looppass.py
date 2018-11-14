@@ -4,12 +4,12 @@
 import difflib
 
 
-info = {'name':'chen/zhilin',
-		'abname':'czl', 
-		'DateOfBirth':'19980824', 
+info = {'name':'ma/laoshi',
+		'abname':'mls', 
+		'DateOfBirth':'19920222', 
 		'Birthday':'0824', 
-		'ID':'513029199808242191', 
-		'phoneNumber':'15983876822',
+		'ID':'6130299910822191', 
+		'phoneNumber':'16683666822',
 		'girlname':'xiao/xiaofei',
 		'girlabname':'xxf',
 		'QQ':'550165942',
