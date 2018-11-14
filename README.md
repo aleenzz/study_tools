@@ -11,3 +11,5 @@
 4.ssr.py 一个ssr账号半自动申请 配上临时邮箱无限试用
 
 5.theading_ua_spider.py 浏览器ua头大全爬虫
+
+6.looppass.py 根据社工信息生成密码
